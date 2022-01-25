@@ -1,7 +1,5 @@
 // C++ code
 // This is The Project Link: https://www.tinkercad.com/things/lxTTcUrtxtx
-int animationSpeed = 0;
-
 void setup()
 {
   pinMode(2, OUTPUT);
