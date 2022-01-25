@@ -17,6 +17,8 @@ void setup()
 }
 
 void loop()
+
+//This is just to save the number code so I dont need to write it again everytime
 {
   if (2 < 1) {
     // Number0
