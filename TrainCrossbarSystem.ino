@@ -19,11 +19,11 @@ void setup()
     {
          tone(13, 200, 200);
       	 digitalWrite(12, LOW);
-  		 digitalWrite(11, HIGH);
+  		   digitalWrite(11, HIGH);
       	 delay(300);
          tone(13, 200, 200);
       	 digitalWrite(12, HIGH);
-  		 digitalWrite(11, LOW);
+  		   digitalWrite(11, LOW);
       	 delay(300);
    
     }
